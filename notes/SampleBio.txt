@@ -1,0 +1,9 @@
+#Apache ZooKeeper Essentials
+*Saurav Haloi works as a principal software engineer at EMC in its data protection and availability division. 
+With more than 10 years of experience in software engineering, 
+he has also been associated with prestigious software firms such as Symantec Corporation and Tata Consultancy Services, 
+where he worked in the design and development of complex, large-scale, multiplatform, multi-tier, and enterprise software systems in a storage, networking, and distributed systems domain. 
+He has been using Apache ZooKeeper since 2011 in a variety of different contexts. 
+He graduated from National Institute of Technology, Surathkal, India, with a bachelors degree in computer engineering. 
+An open source enthusiast and a hard rock and heavy metal fanatic, he lives in the city of Pune in India, which is also known as the Oxford of the East.
+-----------------------------------------------------------------

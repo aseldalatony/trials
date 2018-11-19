@@ -1,0 +1,15 @@
+big data challenges:
+-collect data
+-transfere data (kafka)
+-store data
+-analyze data
+
+Kafka: Distributed Streaming Platform.
+
+messaging solutions:
+-AMQP
+-RabbitMQ
+-JMS
+-Amazon Kinesis
+-ActiveMQ
+-Kafka

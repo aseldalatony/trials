@@ -1,0 +1,1 @@
+Apache ZooKeeper has been developed to simplify the task of developing coordination and synchronization systems from scratch for distributed systems.
