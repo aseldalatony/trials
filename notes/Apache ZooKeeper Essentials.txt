@@ -1,1 +1,4 @@
 Apache ZooKeeper has been developed to simplify the task of developing coordination and synchronization systems from scratch for distributed systems.
+it's recommended that a ZooKeeper ensemble should have an odd number of machines in it
+leader election: each server in the ensemble sends its id sid and xid of the most recent transaction to its peers, and each peet compares it with its own, id it is greater it accecpt that leader otherwise it sends its own
+ZooKeeper uses a special atomic messaging protocol called ZooKeeper Atomic Broadcast (ZAB) for internal communications
