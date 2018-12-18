@@ -7,3 +7,11 @@ He has been using Apache ZooKeeper since 2011 in a variety of different contexts
 He graduated from National Institute of Technology, Surathkal, India, with a bachelors degree in computer engineering. 
 An open source enthusiast and a hard rock and heavy metal fanatic, he lives in the city of Pune in India, which is also known as the Oxford of the East.
 -----------------------------------------------------------------
+#RESTful Java Web Services
+*Bogunuva Mohanram Balachandar works as associate director for a leading American multinational corporation, listed in NASDAQ-100, that provides digital, technology, consulting, and operations services. He has extensive experience in the design and development of multiple enterprise application integration projects, using various tools and technologies such as Oracle SOA Suite, Oracle Service Bus, Oracle AIA, IBM WebSphere Process Server, web services, RESTful services, Business Process Execution Language (BPEL), IBM WebSphere MQ, TIBCO EMS, Java, JMS, and Spring Integration.
+He is certified in SOA, web services, and cloud technologies and has over 16 years of IT industry experience in software design and development. Prior to joining his current employer, he worked with IBM, Accenture, and Wipro.
+Balachandar, in his current role, is responsible for designing the integration landscape for a leading bank.
+***Mohamed Sanaulla is a software developer with more than 7 years of experience in developing enterprise applications and Java-based backend solutions for e-commerce applications. 
+His interests include enterprise software development, refactoring and redesigning applications, designing and implementing RESTful web services, troubleshooting Java applications for performance issues, and TDD. 
+He has a strong expertise in Java-based application development, ADF (JSF-based JavaEE web framework), SQL, PL/SQL, JUnit, designing RESTful services, Spring, Struts, Elasticsearch, and MongoDB. He is also a Sun Certified Java Programmer for the Java 6 platform. He is a moderator for https://javaranch.com/. He likes to share findings on his blog (https://sanaulla.info).
+-----------------------------------------------------------------
