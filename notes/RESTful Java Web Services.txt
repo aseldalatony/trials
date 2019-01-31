@@ -1,0 +1,8 @@
+Hypermedia as the Engine of Application State (HATEOAS) is an important principle of the REST application architecture.
+-json processing models
+--object, loads whole file into memory and parse
+--stream, read/write data in blocks(elements)
+-@path: can be added to a class or method
+	runtime will parse the path with leading or trailing slashes in same way
+
+

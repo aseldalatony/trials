@@ -1,0 +1,1 @@
+DI, constructor injection: when you pass the dependent object as constructor parameter instead of creating it inside the constructor

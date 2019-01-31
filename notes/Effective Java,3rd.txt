@@ -1,0 +1,2 @@
+- prefere using static factory instead of constructor as it provide more generic instances
+	- singletones, cached, subtypes
