@@ -1,4 +1,4 @@
 data applications types:
 -data pipelines and data staging
--
--
+-data processing and analysis
+-end user applications(web,mobile)
