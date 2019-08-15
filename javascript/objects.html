@@ -8,14 +8,20 @@
 
 <body>
     <script>
-        let car={};
-        car.color='red';
+        let car = {};
+        car.color = 'red';
         console.log(car.color);
-        delete car.color
-        test=new Object();
-        test1=new Object();
-        console.log(test==test1);
-        console.log(test===test1);
+        //delete car.color
+        test = new Object();
+        test1 = new Object();
+        console.log(test == test1);
+        console.log(test === test1);
+        car.turn = function (key) { console.log("car turned " + key) }
+        function Obj(item1,item2){
+            this.item1=item1
+            this.item2=item2
+            this.print=function(){console.log(this.item1+'   '+this.item2);}
+        }
     </script>
 </body>
 
