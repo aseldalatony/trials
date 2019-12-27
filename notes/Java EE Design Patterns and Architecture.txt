@@ -1,0 +1,32 @@
+Enterprise Software Patterns:
+-integration
+--File transfere
+--shared databases
+--remote calls
+--messaging
+-architectural
+--database-centric
+---3tier
+	presentation
+	business
+	persistence
+---4tier
+	presentation
+	application(encapsulates use cases and depend on domain)
+	domain(contains business rules)
+	persistence(gateway to database)
+--domain-centric
+---hexagonal architecture
+---onion architecture
+---clean architecture
+--screaming
+--CQRS
+---single DB structure
+---2 DB structure
+---event sourcing
+-others
+
+MVC
+user--->presentation------>business--->persistence
+	------------MVC------------
+        view/Controller     model
