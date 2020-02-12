@@ -1,0 +1,14 @@
+
+<input type="text" [(ngModel)]="x" (change)="enableEquale($event)"/> + <input type="text" [(ngModel)]="y" /> = {{ add() }}
+<hr/>
+{{x}} + {{y}} <button class="btn btn-primary" [disabled]="disableEqual" (click)="add1()">=</button> {{res}}
+<hr *ngIf="!disableEqual"/>
+<hr/>
+<form>
+<input type="text" >
+<input type="submit" class="btn btn-primary" (click)="push($event)" value="push"/>
+</form>
+
+<ul>
+    <li *ngFor="let name of names;let i=index">{{i}} - {{name}}</li>
+</ul>
